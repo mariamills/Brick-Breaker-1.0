@@ -16,7 +16,7 @@ public class GamePlay extends JPanel implements KeyListener, ActionListener {
     private int totalBricks = 21;
 
     private Timer timer;
-    private int delay = 0;
+    private int delay = 10;
 
     private int playerPosX = 310;
 
